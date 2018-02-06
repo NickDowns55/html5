@@ -1,4 +1,5 @@
-# html5
+# HTML5
+
 HTML5 Starter Template
 
 Installation
